@@ -48,3 +48,4 @@ def double_and_add(n, P):
     return result
 
 print(double_and_add(151, (3,4)))
+print(double_and_add(150, (3,4)))
